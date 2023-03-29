@@ -1,0 +1,42 @@
+/* Global Styles - global.css */
+
+/* Montserrat font as the default font */
+html,
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Dark blue color */
+.dark-blue {
+  color: #0b3d91;
+}
+
+/* Dark blue background color */
+.bg-dark-blue {
+  background-color: #0b3d91;
+}
+
+/* Bronze color */
+.bronze {
+  color: #cd7f32;
+}
+
+/* Bronze background color */
+.bg-bronze {
+  background-color: #cd7f32;
+}
+/* Add this to your global.css */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.ascii-art {
+  font-family: 'Courier New', monospace;
+  font-size: 1.5rem;
+  text-align: center;
+}
